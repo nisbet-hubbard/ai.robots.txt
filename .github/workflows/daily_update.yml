@@ -1,7 +1,5 @@
 name: Daily Update from Dark Visitors
-on:
-  schedule:
-    - cron: "0 0 * * *"
+
 
 jobs:
   dark-visitors:
